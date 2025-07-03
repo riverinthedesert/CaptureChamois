@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/action_à_propos"
+            android:orderInCategory="100"
+            android:title="@string/A_PROPOS"
+    >
+    </item>
+    <item
+            android:id="@+id/action_quitter"
+            android:orderInCategory="100"
+            android:title="@string/QUITTER"
+            >
+    </item>
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chamois</string>
+    <string name="START">START</string>
+    <string name="CAPTURE">MESCAPTURES</string>
+    <string name="QUITTER">QUITTER</string>
+    <string name="A_PROPOS">A PROPOS</string>
+    <string name="Vitesse_vent">Vitesse_Vent</string>
+    <string name="Description_weather">Description_Weather</string>
+    <string name="Temp">Temp</string>
+    <string name="Longtitude">Longtitude</string>
+    <string name="Latitude">Latitude</string>
+    <string name="CONTINUER">CONTINUER</string>
+    <string name="CAPTURER">CAPTURER</string>
+</resources>

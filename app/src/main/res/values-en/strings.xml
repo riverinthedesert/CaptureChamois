@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chamois</string>
+    <string name="A_PROPOS">about</string>
+    <string name="CAPTURE">catches</string>
+    <string name="CAPTURER">catch</string>
+    <string name="CONTINUER">continue</string>
+    <string name="Description_weather">weather</string>
+    <string name="Latitude">latitude</string>
+    <string name="Longtitude">longtitude</string>
+    <string name="QUITTER">quit</string>
+    <string name="START">start</string>
+    <string name="Temp">temp</string>
+    <string name="Vitesse_vent">speed_wind</string>
+</resources>
